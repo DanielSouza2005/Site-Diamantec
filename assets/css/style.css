@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: rgb(65, 40, 255);
+  background: #ff2e8f;
   color: #fff;
 }
 .back-to-top.active {
@@ -467,7 +467,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #hero h1 span {
-  color:  rgb(0, 129, 255);
+  color:  #00DBF9;
 ;
 }
 #hero h2 {
@@ -490,7 +490,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #0081FF;
 }
 #hero .btn-get-started:hover {
-  background: rgb(65, 40, 255);
+  background: #d42677;
 }
 #hero .btn-watch-video {
   font-size: 16px;
@@ -878,14 +878,14 @@ section {
   box-shadow: 0px 0 25px 0 rgba(16, 110, 234, 0.1);
 }
 .services .icon-box:hover h4 a, .services .icon-box:hover .icon i {
-  color: #0081FF;
+  color: #ff2e8f;
 }
 .services .icon-box:hover .icon {
-  border-color: #00DBF9;
+  border-color: #ff2e8f;
 }
 
 .services .icon-box:hover .icon i {
-  color: #00DBF9;
+  color: #ff2e8f;
 }
 
 
@@ -1153,13 +1153,13 @@ section {
   border-radius: 4px;
   width: 36px;
   height: 36px;
-  background: rgb(0, 129, 255);
+  background: #0081ff;
   display: inline-block;
   transition: ease-in-out 0.3s;
   color: #fff;
 }
 .team .member .social a:hover {
-  background: rgb(65, 40, 255);
+  background: #ff2e8f;
 }
 .team .member .social i {
   font-size: 18px;
@@ -1177,7 +1177,7 @@ section {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: #444444;
 }
 .team .member .member-info p {
   font-style: italic;
@@ -1353,10 +1353,10 @@ section {
 }
 .contact .info-box i {
   font-size: 32px;
-  color: #0081FF;
+  color: #ff2e8f;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #b3d1fa;
+  border: 2px dotted #ff2e8f;
 }
 .contact .info-box h3 {
   font-size: 20px;
@@ -1377,7 +1377,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #4128FF;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1388,7 +1388,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #0081FF;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1429,7 +1429,7 @@ section {
   padding: 12px 15px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #0081FF;
+  background: #4128FF;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1437,7 +1437,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: rgb(65, 40, 255);
+  background: #ff2e8f;
 }
 @-webkit-keyframes animate-loading {
   0% {
